@@ -1,4 +1,5 @@
 **Problem Statement:**
+
 In today's fast-paced world, understanding and improving emotional well-being has become a critical necessity. However, many individuals struggle to find effective and accessible ways to track their emotions, manage stress, and foster mindfulness. A lack of personalized insights and actionable recommendations often hinders their journey toward emotional resilience and mental well-being.
 
 **Solution:**
@@ -10,8 +11,11 @@ Our application empowers users to take control of their emotional health by enab
  - Audio Journaling: Users can record their thoughts and emotions through voice, making it a convenient and therapeutic way to document their mental state.
  - Emotion Tracking: Keep a record of daily emotional patterns and progress over time.
  - Personalized Insights and Recommendations: Using AssemblyAI's advanced transcription and Lemur LLM capabilities, the application provides tailored suggestions to help users:
+   
       Manage stress effectively
+   
       Enhance mindfulness practices
+   
       Build emotional resilience
 
 **Project Workflow:**
