@@ -29,6 +29,9 @@ Step 3: Provide recommendations and tasks to make the user feel better and keep 
 
 
 **Technology Stack:**
-AssemblyAI Audio-to-Text Transcriber: Converts users' audio journals into text for analysis.
-Lemur LLM by AssemblyAI: Delivers personalized recommendations based on the transcribed content.
-Machine Learning Integration: Continuously trains the model to align with users' needs, improving interaction quality and adapting recommendations over time.
+
+**AssemblyAI Audio-to-Text Transcriber:** Converts users' audio journals into text for analysis.
+
+**Lemur LLM by AssemblyAI:** Delivers personalized recommendations based on the transcribed content.
+
+**Machine Learning Integration:** Continuously trains the model to align with users' needs, improving interaction quality and adapting recommendations over time.
