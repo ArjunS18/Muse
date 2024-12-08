@@ -1,8 +1,9 @@
 **Problem Statement:**
 In today's fast-paced world, understanding and improving emotional well-being has become a critical necessity. However, many individuals struggle to find effective and accessible ways to track their emotions, manage stress, and foster mindfulness. A lack of personalized insights and actionable recommendations often hinders their journey toward emotional resilience and mental well-being.
 
-**Solution**
-Muse - Emotional Well-Being Audio Journaling Application
+**Solution:**
+
+**Muse** - Emotional Well-Being Audio Journaling Application
 Our application empowers users to take control of their emotional health by enabling them to record audio journals and track their daily emotions. With the integration of advanced technologies, we aim to provide a seamless, insightful, and personalized experience for emotional well-being management.
 
 **Key Features:**
@@ -12,6 +13,11 @@ Our application empowers users to take control of their emotional health by enab
       Manage stress effectively
       Enhance mindfulness practices
       Build emotional resilience
+
+**Project Workflow:**
+Step 1: User records/uploads audio journal for the day
+Step 2: Transcribe the audio to text, send to lemur LLM and find the mood of the user
+Step 3: Provide recommendations and tasks to make the user feel better and keep track of the mood over a course of time
 
 **Technology Stack:**
 AssemblyAI Audio-to-Text Transcriber: Converts users' audio journals into text for analysis.
