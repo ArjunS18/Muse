@@ -7,6 +7,15 @@ In today's fast-paced world, understanding and improving emotional well-being ha
 **Muse** - Emotional Well-Being Audio Journaling Application
 Our application empowers users to take control of their emotional health by enabling them to record audio journals and track their daily emotions. With the integration of advanced technologies, we aim to provide a seamless, insightful, and personalized experience for emotional well-being management.
 
+
+**Project Workflow:**
+
+Step 1: User records/uploads audio journal for the day
+
+Step 2: Transcribe the audio to text, send to lemur LLM and find the mood of the user
+
+Step 3: Provide recommendations and tasks to make the user feel better and keep track of the mood over a course of time
+
 **Key Features:**
  - Audio Journaling: Users can record their thoughts and emotions through voice, making it a convenient and therapeutic way to document their mental state.
  - Emotion Tracking: Keep a record of daily emotional patterns and progress over time.
@@ -18,10 +27,6 @@ Our application empowers users to take control of their emotional health by enab
    
       Build emotional resilience
 
-**Project Workflow:**
-Step 1: User records/uploads audio journal for the day
-Step 2: Transcribe the audio to text, send to lemur LLM and find the mood of the user
-Step 3: Provide recommendations and tasks to make the user feel better and keep track of the mood over a course of time
 
 **Technology Stack:**
 AssemblyAI Audio-to-Text Transcriber: Converts users' audio journals into text for analysis.
