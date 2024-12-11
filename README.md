@@ -1,3 +1,5 @@
+We got second prize in the assembly AI hackathon: https://www.assemblyai.com/blog/top-speech-ai-projects-and-winners-at-2024-assemblyai-hackathon/
+
 **Problem Statement:**
 
 In today's fast-paced world, understanding and improving emotional well-being has become a critical necessity. However, many individuals struggle to find effective and accessible ways to track their emotions, manage stress, and foster mindfulness. A lack of personalized insights and actionable recommendations often hinders their journey toward emotional resilience and mental well-being.
